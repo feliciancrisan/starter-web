@@ -16,6 +16,8 @@ This is a simple web project, deployment cad be on any web server or even local 
 
 ## How To Contribute
 
+No contirubtion for the moment.
+
 ## Copyright
 
 2020 Feli. Git. Training
