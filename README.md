@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Github togheter. Added for rebase example
+This is a simple website project for showing how to use Git and Github togheter. Added for rebase example, adding antoher change
 
 ## Intorduction
 
